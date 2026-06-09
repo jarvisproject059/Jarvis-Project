@@ -1,33 +1,26 @@
-⚡ JARVIS AI Core (v4.5.0)
-JARVIS AI is a futuristic voice assistant system developed with Python and modern artificial intelligence models. It allows you to manage your computer with your voice, get quick information, and organize your tasks.
+Version 0.1
+🚀 Version v0.1: JARVIS AI Core Launch
+The first stable version of the JARVIS AI project is now available! This version includes the necessary cellular modules for a more advanced and futuristic voice assistant.
 
-🚀 Capabilities
-AI-Powered Response: Ultra-fast and intelligent responses with Llama-3.3-70b.
+✨ What's New?
 
-Fluent Voiceover: Realistic Turkish speech with Edge AI technology.
+Core Intelligence: High-performance processing power with the Llama-3.3-70b model.
 
-Voice Command: Direct communication with JARVIS using your microphone.
+Neural Voice Interface: Microsoft Edge-based, fluent and smooth Turkish male voice engine.
 
-Customizable Interface: Minimalist and modern design that always stays on top.
+Modern User Interface: Enhanced with CustomTkinter, a sleek and dark design that always stays on top.
 
-🛠️ Installation
-1. Requirements
-Your computer must have Python installed. Then run the following command in the terminal:
+Voice Action: Ability to receive commands via microphone and process them within the system.
 
-pip install -r requirements.txt
+⚙️ Installation
+.7z files are obtained.
 
-2. API Configuration (Important!)
-This system uses the Groq API. To generate your own key:
+Open the terminal and load the necessary settings with the following command:
+pip installation -r requirements.txt
 
-Go to Groq Console.
+You will see a file called Jarvis Run.bat. Select Edit with the Notepad you provided and enter your API password in the GROQ_API KEY section. Finally, run JARVIS by executing the Jarvis Run .bat file.
 
-Create an API Key.
+⚠️ Notes
+This project is open source. Development continues.
 
-Create a file named .env in your project folder and add the following line to it:
-
-Plaintext
-GROQ_API_KEY=YOUR_API_KEY_HERE
-3. Running
-You can start JARVIS by running the .bat file located in the main directory of the project.
-
-Note: This project is constantly being developed. Don't forget to follow the releases!
+Features such as advanced system checks will be added in future versions (v0.2+).
